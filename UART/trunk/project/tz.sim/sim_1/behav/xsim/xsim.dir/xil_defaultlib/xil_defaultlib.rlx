@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/ELINS/Соколов/HDL_only/trunk/project/tz.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/ELINS/Соколов/HDL_only/trunk/src/hdl/UartRX.sv,1697404956,systemVerilog,,D:/ELINS/Соколов/HDL_only/trunk/src/hdl/UartTX.sv,,UartRX,,,,,,,,
+D:/ELINS/Соколов/HDL_only/trunk/src/hdl/UartTX.sv,1697404191,systemVerilog,,D:/ELINS/Соколов/HDL_only/trunk/src/tb/tb_UartTX.sv,,UartTX,,,,,,,,
+D:/ELINS/Соколов/HDL_only/trunk/src/tb/tb_UartTX.sv,1697405211,systemVerilog,,,,UartTX_tb,,,,,,,,

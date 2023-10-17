@@ -1,0 +1,17 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 98638c2ab7704126aeb8e91dba0a9df0 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_rf_riscv_behav xil_defaultlib.tb_rf_riscv xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3705] select index 32 into 'rf_mem' is out of bounds [D:/MIET/8211600/APS/ALU_SNA/tb/tb_rf_riscv.sv:83]
+WARNING: [VRFC 10-3705] select index 32 into 'rf_mem' is out of bounds [D:/MIET/8211600/APS/ALU_SNA/tb/tb_rf_riscv.sv:84]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.rf_riscv
+Compiling module xil_defaultlib.rf_riscv_ref
+Compiling module xil_defaultlib.tb_rf_riscv
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_rf_riscv_behav

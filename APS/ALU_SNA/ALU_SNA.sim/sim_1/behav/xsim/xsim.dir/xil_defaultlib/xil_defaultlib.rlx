@@ -1,0 +1,18 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sim_1/new/my_tb_alu.sv,1694726773,systemVerilog,,,,my_tb_alu,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/alu_riscv.sv,1697047801,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder.sv,,alu_riscv,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/data_mem.sv,1696889641,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/tb/tb_data_mem.sv,,data_mem,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder.sv,1694459736,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder4.sv,,fulladder,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder32.sv,1694460803,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sim_1/new/my_tb_alu.sv,,fulladder32,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder4.sv,1697051797,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder_usk.sv,,fulladder4,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/fulladder_usk.sv,1697051708,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sim_1/new/my_tb_alu.sv,,fulladder_usk,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/instr_mem.sv,1696885844,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/tb/tb_instr_mem.sv,,instr_mem,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/rf_riscv.sv,1697130493,systemVerilog,,D:/MIET/8211600/APS/ALU_SNA/tb/tb_rf_riscv.sv,,rf_riscv,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/tb/alu_opcodes_pkg.sv,1694461801,systemVerilog,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sim_1/new/my_tb_alu.sv;D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/alu_riscv.sv,D:/MIET/8211600/APS/ALU_SNA/ALU_SNA.srcs/sources_1/new/alu_riscv.sv,,alu_opcodes_pkg,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/tb/tb_data_mem.sv,1696887902,systemVerilog,,,,tb_data_mem,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/tb/tb_instr_mem.sv,1696882552,systemVerilog,,,,instr_mem_ref;tb_instr_mem,,,,,,,,
+D:/MIET/8211600/APS/ALU_SNA/tb/tb_rf_riscv.sv,1697129746,systemVerilog,,,,rf_riscv_ref;tb_rf_riscv,,,,,,,,

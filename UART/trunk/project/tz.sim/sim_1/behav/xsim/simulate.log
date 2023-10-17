@@ -1,0 +1,3 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+$stop called at time : 20320 ns : File "D:/ELINS/Соколов/HDL_only/trunk/src/tb/tb_UartTX.sv" Line 63

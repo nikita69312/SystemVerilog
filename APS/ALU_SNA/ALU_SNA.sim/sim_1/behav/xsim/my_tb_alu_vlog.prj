@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../tb/alu_opcodes_pkg.sv" \
+"../../../../ALU_SNA.srcs/sources_1/new/alu_riscv.sv" \
+"../../../../ALU_SNA.srcs/sources_1/new/fulladder.sv" \
+"../../../../ALU_SNA.srcs/sources_1/new/fulladder4.sv" \
+"../../../../ALU_SNA.srcs/sources_1/new/fulladder_usk.sv" \
+"../../../../ALU_SNA.srcs/sim_1/new/my_tb_alu.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
