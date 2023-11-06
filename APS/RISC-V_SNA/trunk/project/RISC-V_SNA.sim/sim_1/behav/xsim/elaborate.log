@@ -1,10 +1,34 @@
 Vivado Simulator 2019.2
 Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
-Running: D:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto e3c253f7859e48db897d3ba5a8deba43 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_CYBERcobra_behav xil_defaultlib.tb_CYBERcobra xil_defaultlib.glbl -log elaborate.log 
+Running: D:/Vivado/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto e3c253f7859e48db897d3ba5a8deba43 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_decoder_riscv_behav xil_defaultlib.tb_decoder_riscv xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
-WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 1 for port 'carry_i' [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/fulladder4.sv:17]
-WARNING: [VRFC 10-3091] actual bit length 4 differs from formal bit length 1 for port 'carry_o' [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/fulladder4.sv:19]
 Completed static elaboration
-INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 22. Module tb_decoder_riscv has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/decoder_riscv.sv" Line 3. Module decoder_riscv has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 712. Module decoder_riscv_ref has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 510. Module csr_we_table has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 552. Module mem_req_table has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 592. Module mem_we_table has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 470. Module gpr_we_table has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 632. Module branch_table has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 672. Module jalr_table has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/MIET/8211600/APS/RISC-V_SNA/trunk/project/RISC-V_SNA.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.riscv_pkg
+Compiling package xil_defaultlib.alu_opcodes_pkg
+Compiling package xil_defaultlib.csr_pkg
+Compiling module xil_defaultlib.decoder_riscv
+Compiling module xil_defaultlib.csr_we_table
+Compiling module xil_defaultlib.mem_req_table
+Compiling module xil_defaultlib.mem_we_table
+Compiling module xil_defaultlib.gpr_we_table
+Compiling module xil_defaultlib.branch_table
+Compiling module xil_defaultlib.jalr_table
+Compiling module xil_defaultlib.decoder_riscv_ref
+Compiling module xil_defaultlib.tb_decoder_riscv
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_decoder_riscv_behav

@@ -3,14 +3,12 @@ Time resolution is 1 ps
 
 Start test: 
 
-===============================================
-Add CYBERcobra signals to the waveform and then
+==========================
 CLICK THE BUTTON 'Run All'
-===============================================
+==========================
 
-$stop called at time : 0 fs : File "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_cybercobra.sv" Line 40
+$stop called at time : 0 fs : File "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 234
 
- The test is over 
- See the internal signals of the CYBERcobra on the waveform 
+decoder SUCCESS!!!
 
-$finish called at time : 10010 ns : File "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_cybercobra.sv" Line 49
+$finish called at time : 35468 ns : File "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" Line 289

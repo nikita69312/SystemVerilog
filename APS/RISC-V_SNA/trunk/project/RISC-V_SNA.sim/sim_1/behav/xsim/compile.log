@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/alu_opcodes_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/csr_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/riscv_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/sv/decoder_riscv.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_riscv
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_decoder_riscv
+INFO: [VRFC 10-311] analyzing module gpr_we_table
+INFO: [VRFC 10-311] analyzing module csr_we_table
+INFO: [VRFC 10-311] analyzing module mem_req_table
+INFO: [VRFC 10-311] analyzing module mem_we_table
+INFO: [VRFC 10-311] analyzing module branch_table
+INFO: [VRFC 10-311] analyzing module jalr_table
+INFO: [VRFC 10-311] analyzing module decoder_riscv_ref
+INFO: [VRFC 10-2458] undeclared symbol edocpo_6, assumed default net type wire [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv:813]
+INFO: [VRFC 10-2458] undeclared symbol edocpo_5, assumed default net type wire [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv:813]
+INFO: [VRFC 10-2458] undeclared symbol edocpo_4, assumed default net type wire [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv:813]
+INFO: [VRFC 10-2458] undeclared symbol edocpo_3, assumed default net type wire [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv:813]
+INFO: [VRFC 10-2458] undeclared symbol edocpo_2, assumed default net type wire [D:/MIET/8211600/APS/RISC-V_SNA/trunk/src/tb/tb_decoder_riscv.sv:813]

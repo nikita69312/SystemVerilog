@@ -11,14 +11,13 @@ module rf_riscv(
                 output  logic  [31:0] read_data1_o,
                 output  logic  [31:0] read_data2_o
     );
-logic [31:0] rf_mem[0:31];
+logic [31:0] rf_mem[31:0];
 always_ff @(posedge clk_i)
   begin
   if(write_enable_i)
-    case(write_addr_i)
-      0: rf_mem[write_addr_i]<=0;
-      default:rf_mem[write_addr_i]<=write_data_i;
-    endcase
+    
+     rf_mem[write_addr_i]<=write_data_i;
+
   end
 assign read_data1_o = (read_addr1_i==0)? 0:rf_mem[read_addr1_i];
 assign read_data2_o = (read_addr2_i==0)? 0:rf_mem[read_addr2_i];

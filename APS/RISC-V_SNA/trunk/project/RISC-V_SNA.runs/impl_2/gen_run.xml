@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_2" LaunchPart="xc7a100tcsg324-1" LaunchTime="1698170346">
+  <File Type="ROUTE-PWR" Name="nexys_CYBERcobra_dz_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="nexys_CYBERcobra_dz.tcl"/>
+  <File Type="BITSTR-BMM" Name="nexys_CYBERcobra_dz_bd.bmm"/>
+  <File Type="ROUTE-PWR-SUM" Name="nexys_CYBERcobra_dz_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="nexys_CYBERcobra_dz_reports.tcl"/>
+  <File Type="OPT-DCP" Name="nexys_CYBERcobra_dz_opt.dcp"/>
+  <File Type="OPT-DRC" Name="nexys_CYBERcobra_dz_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="nexys_CYBERcobra_dz.hwdef"/>
+  <File Type="PWROPT-DCP" Name="nexys_CYBERcobra_dz_pwropt.dcp"/>
+  <File Type="PLACE-DCP" Name="nexys_CYBERcobra_dz_placed.dcp"/>
+  <File Type="PLACE-IO" Name="nexys_CYBERcobra_dz_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="nexys_CYBERcobra_dz_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="nexys_CYBERcobra_dz_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="nexys_CYBERcobra_dz_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="nexys_CYBERcobra_dz_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="nexys_CYBERcobra_dz_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="nexys_CYBERcobra_dz.bin"/>
+  <File Type="PHYSOPT-DCP" Name="nexys_CYBERcobra_dz_physopt.dcp"/>
+  <File Type="BITSTR-MSK" Name="nexys_CYBERcobra_dz.msk"/>
+  <File Type="ROUTE-ERROR-DCP" Name="nexys_CYBERcobra_dz_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="nexys_CYBERcobra_dz_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="nexys_CYBERcobra_dz_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="nexys_CYBERcobra_dz_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="nexys_CYBERcobra_dz_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="nexys_CYBERcobra_dz_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="nexys_CYBERcobra_dz_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MMI" Name="nexys_CYBERcobra_dz.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="nexys_CYBERcobra_dz_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="nexys_CYBERcobra_dz_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="nexys_CYBERcobra_dz_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="nexys_CYBERcobra_dz_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="nexys_CYBERcobra_dz_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="nexys_CYBERcobra_dz_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="nexys_CYBERcobra_dz_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="nexys_CYBERcobra_dz_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-CLK" Name="nexys_CYBERcobra_dz_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="nexys_CYBERcobra_dz_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="nexys_CYBERcobra_dz_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="nexys_CYBERcobra_dz_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="nexys_CYBERcobra_dz_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="nexys_CYBERcobra_dz_postroute_physopt_bb.dcp"/>
+  <File Type="BG-BIT" Name="nexys_CYBERcobra_dz.bit"/>
+  <File Type="BITSTR-RBT" Name="nexys_CYBERcobra_dz.rbt"/>
+  <File Type="BITSTR-NKY" Name="nexys_CYBERcobra_dz.nky"/>
+  <File Type="PDI-FILE" Name="nexys_CYBERcobra_dz.pdi"/>
+  <File Type="RCFI_FILE" Name="nexys_CYBERcobra_dz.rcfi"/>
+  <File Type="CFI_FILE" Name="nexys_CYBERcobra_dz.cfi"/>
+  <File Type="RNPI_FILE" Name="nexys_CYBERcobra_dz.rnpi"/>
+  <File Type="NPI_FILE" Name="nexys_CYBERcobra_dz.npi"/>
+  <File Type="RBD_FILE" Name="nexys_CYBERcobra_dz.rbd"/>
+  <File Type="BITSTR-LTX" Name="nexys_CYBERcobra_dz.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="nexys_CYBERcobra_dz.sysdef"/>
+  <File Type="BG-BGN" Name="nexys_CYBERcobra_dz.bgn"/>
+  <File Type="BG-DRC" Name="nexys_CYBERcobra_dz.drc"/>
+  <File Type="RDI-RDI" Name="nexys_CYBERcobra_dz.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../src/sv/CYBERcobra.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/PC.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/alu_opcodes_pkg.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/alu_riscv.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/fulladder.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/fulladder32.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/fulladder4.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/fulladder_usk.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/instr_mem.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/rf_riscv.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/nexys_cybercobra.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/nexys_cybercobra_demo.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/data_mem.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../src/sv/program.txt">
+      <FileInfo SFType="MIF">
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="nexys_CYBERcobra_dz"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../src/constr/nexys_a7_100t.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

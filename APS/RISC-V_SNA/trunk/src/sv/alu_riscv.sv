@@ -37,7 +37,7 @@ always_comb
             ALU_SLTU:
                         result_o = (a_i < b_i);
             ALU_ADD:
-                        result_o = ADD;
+                        result_o = a_i + b_i;
             ALU_SUB:
                         result_o = a_i - b_i;
             ALU_SLL:
